@@ -1,0 +1,181 @@
+.edu{
+    /* Educacion */
+position: absolute;
+width: 86px;
+height: 21px;
+left: 420px;
+top: 328px;
+/* SubTitle */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 25px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+/* Dark */
+color: #283035;
+}
+.prima{
+position: absolute;
+width: 199px;
+height: 32px;
+left: 440px;
+top: 410px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 16px;
+text-align: center;
+color: #283035;
+}
+.pri{
+    /* image 14 */
+position: absolute;
+width: 25px;
+height: 32.78px;
+left: 420px;
+top: 409px;
+}
+.fecha{
+    /* Agosto 2000- 2006 */
+position: absolute;
+width: 120px;
+height: 12px;
+left: 490px;
+top: 456px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+text-align: center;
+color: #737478;
+}
+.secu{
+    /* Esc. Sec. Gral. Emilio Rabasa Estevanell */
+position: absolute;
+width: 199px;
+height: 41px;
+left: 430px;
+top: 500px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 15px;
+text-align: center;
+color: #283035;
+}
+.secun{
+    /* image 15 */
+position: absolute;
+width: 35px;
+height: 35px;
+left: 410px;
+top: 500px;
+}
+.fech{
+    /* Agosto 2006- 2009 */
+position: absolute;
+width: 120px;
+height: 12px;
+left: 490px;
+top: 550px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+text-align: center;
+color: #737478;
+}
+.cobach{
+        /* Colegio de Bachilleres de Chiapas Plantel 44 */
+position: absolute;
+width: 240px;
+height: 30px;
+left: 430px;
+top: 600px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 15px;
+text-align: center;
+color: #283035;
+}
+.coba{
+    /* image 16 */
+position: absolute;
+width: 30px;
+height: 40px;
+left: 415px;
+top: 600px;
+}
+.fec{
+    /* Agosto 2009- 2012 */
+position: absolute;
+width: 120px;
+height: 12px;
+left: 490px;
+top: 650px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+text-align: center;
+color: #737478;
+}
+.up{
+    /* Universidad Politecnica de Chiapas */
+position: absolute;
+width: 220px;
+height: 30px;
+left: 440px;
+top: 700px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 15px;
+text-align: center;
+color: #283035;
+}
+.Up{
+    /* image 13 */
+position: absolute;
+width: 35px;
+height: 19px;
+left: 410px;
+top: 710px;
+}
+.fe{
+    /* Agosto 2012- 2015 */
+position: absolute;
+width: 150px;
+height: 12px;
+left: 490px;
+top: 750px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+text-align: center;
+color: #737478;
+}

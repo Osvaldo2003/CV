@@ -1,0 +1,104 @@
+.So{
+    /* Software */
+position: absolute;
+width: 113px;
+height: 21px;
+left: 1090px;
+top: 328px;
+
+/* SubTitle */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 25px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+/* Dark */
+color: #283035;
+}
+.f{
+    /* Figma */
+position: absolute;
+width: 42px;
+height: 21px;
+left: 1095px;
+top: 410px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+color: #283035;
+}
+.a{
+    /* Adobe XD */
+position: absolute;
+width: 100px;
+height: 20px;
+left: 1095px;
+top: 460px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+color: #283035;
+}
+.s{
+    /* Sketch */
+position: absolute;
+width: 45px;
+height: 20px;
+left: 1095px;
+top: 510px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+color: #283035;
+}
+.p{
+    /* Photoshop */
+position: absolute;
+width: 71px;
+height: 20px;
+left: 1095px;
+top: 560px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+color: #283035;
+}
+.b{
+    /* Blender */
+position: absolute;
+width: 50px;
+height: 20px;
+left: 1095px;
+top: 610px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+color: #283035;
+}

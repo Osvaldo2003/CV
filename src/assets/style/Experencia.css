@@ -1,0 +1,135 @@
+.Experencia{
+    /* Experencia */
+position: absolute;
+width: 86px;
+height: 18px;
+left: 85px;
+top: 328px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 25px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+/* Dark */
+color: #283035;
+}
+.Google{
+    /* Diseñador de UI en Google */
+position: absolute;
+width: 166px;
+height: 16px;
+left: 85px;
+top: 410px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+color: #283035;
+}
+.Go{
+    /* image 3 */
+position: absolute;
+width: 16px;
+height: 16px;
+left: 68px;
+top: 419px;
+}
+.Fecha{
+/* Marzo 2016 - Actual */
+position: absolute;
+width: 91px;
+height: 12px;
+left: 120px;
+top: 435px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+text-align: center;
+
+color: #737478;
+}
+.dat{
+    /* Encargado del equipo de diseño del UX. */
+position: absolute;
+width: 175px;
+height: 28px;
+left: 77px;
+top: 460px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 14px;
+text-align: center;
+color: #737478;
+}
+.tesla{
+    /* Diseñador de UI en Tesla */
+position: absolute;
+width: 155px;
+height: 16px;
+left: 85px;
+top: 520px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+color: #283035;
+}
+.Tes{
+    /* image 8 */
+position: absolute;
+width: 22px;
+height: 22px;
+left: 66px;
+top: 526px;
+}
+.Fec{
+    /* Septiembre 2018 - Actual */
+position: absolute;
+width: 114px;
+height: 12px;
+left: 120px;
+top: 545px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+text-align: center;
+color: #737478;
+}
+.dato{
+    /* Encargado del equipo de diseño del UX*/
+position: absolute;
+width: 194px;
+height: 26px;
+left: 75px;
+top: 570px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 13px;
+text-align: center;
+/* Grey */
+color: #82859B;
+}
